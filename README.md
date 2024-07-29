@@ -2,6 +2,11 @@
 
 Umang's PaperPal is a Streamlit application designed to help you interact with PDF documents using OpenAI's GPT-3.5 Turbo model. The app allows you to upload a PDF, view its pages with enhanced quality, and ask questions about its content. Your interactions are saved to a local SQLite database for future reference.
 
+![image](https://github.com/user-attachments/assets/cf7198d5-44e6-4c40-abb7-59f34a6e8d75)
+
+
+
+
 ## Features
 
 - **User Authentication**: Simple login system to secure access.
@@ -92,4 +97,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [OpenAI](https://www.openai.com/)
 - [LangChain](https://www.langchain.com/)
 - [PyMuPDF](https://pymupdf.readthedocs.io/)
+
+
 
