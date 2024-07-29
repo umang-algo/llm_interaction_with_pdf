@@ -1,0 +1,12 @@
+streamlit 
+langchain
+openai
+requests
+chromadb
+frontend
+fitz
+langchain-openai
+langchain-community
+pymupdf 
+pillow
+pypdf
