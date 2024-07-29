@@ -48,7 +48,7 @@ Umang's PaperPal is a Streamlit application designed to help you interact with P
 4. **Run the application**
 
     ```bash
-    streamlit run app.py
+    streamlit run llm_to_chat_with_pdf
     ```
 
 ## Usage
