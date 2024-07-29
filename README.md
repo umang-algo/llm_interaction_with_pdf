@@ -24,7 +24,7 @@ Umang's PaperPal is a Streamlit application designed to help you interact with P
 
     ```bash
     git clone https://github.com/your-username/umangs-paperpal.git
-    cd umangs-paperpal
+    cd llm_interaction_with_pdf
     ```
 
 2. **Create a virtual environment and activate it**
