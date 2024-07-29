@@ -37,7 +37,7 @@ Umang's PaperPal is a Streamlit application designed to help you interact with P
 3. **Install the required libraries**
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
 
 4. **Run the application**
